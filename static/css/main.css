@@ -5,3 +5,11 @@
   padding: 0px 5px;
   background: #fff;
 }
+
+@media print
+{
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
