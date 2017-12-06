@@ -98,7 +98,7 @@
           {"name": "react", "level": 5},
           {"name": "node", "level": 3},
           {"name": "Linux", "level": 4},
-          {"name": "mongo", "level": 3},
+          {"name": "mongodb", "level": 3},
           {"name": "mysql", "level": 3}
         ]
       }
@@ -175,7 +175,7 @@
       ],
       "languages": {
         "title": "Languages",
-        "title-bg-size": 90,
+        "title-bg-size": 110,
         "items": [
           {"name": "Portuguese", "level": 5},
           {"name": "English", "level": 4}
@@ -183,7 +183,7 @@
       },
       "skills": {
         "title": "Professional Skills",
-        "title-bg-size": 250,
+        "title-bg-size": 200,
         "items": [
           {"name": "Python", "level": 5},
           {"name": "javascript", "level": 5},
@@ -195,7 +195,7 @@
           {"name": "react", "level": 5},
           {"name": "node", "level": 3},
           {"name": "Linux", "level": 4},
-          {"name": "mongo", "level": 3},
+          {"name": "mongodb", "level": 3},
           {"name": "mysql", "level": 3}
         ]
       }
