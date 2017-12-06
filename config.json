@@ -1,0 +1,204 @@
+{
+  "url": "https://senechal.github.io",
+  "color": "#5599ff",
+  "max_zoom": 200,
+  "min_zoom": 50,
+  "init_zomm": 100,
+  "init_lang": "pt-Br",
+  "languages": {
+    "pt-Br": {
+      "flag": "BR",
+      "title": "pt-Br",
+      "fullname": "André Luiz Lé Sénéchal Paolino",
+      "summary": "Apaixonado por computação e desenvolvimento, e curioso por natureza, sempre busco aprender novas tecnologias e novas habilidades. Sou uma pessoa de facil convivencia e trabalho muito bem em equipe.",
+      "contact_information": {
+        "website": { "label": "Website", "value": "http://senechal.github.io"},
+        "phone": { "label": "celular", "value": "(19)98418-0983"},
+        "email": { "label": "E-mail", "value": "andre.senechal@hotmail.com"}
+      },
+      "sections": [
+        {
+          "title": "Educação",
+          "title-bg-size": 110,
+          "items": [
+            {
+              "side-notes":[
+                "ICMC - USP São Carlos",
+                "Bacharelado em ",
+                "Ciências da Computação"
+              ],
+              "text": "Finalizado em 2016"
+            }
+          ]
+        },
+        {
+          "title": "Experiencia",
+          "title-bg-size": 130,
+          "items": [
+            {
+              "side-notes":[
+                "Coordenador de TI",
+                "Raccoon Marketing Digital",
+                "São Carlos - SP, Brasil",
+                "2017"
+              ],
+              "text": "Como coordenador tive a experiência de liderar meu prórpio time, o time de helpdesk, mantendo as minhas responsabilidades como desenvolvedor e Gerente de Projetos.Também tive experiencia e contato com clientes desenvolvendo Tags de Trackeamento de Usuários utilizando o Google Tag Manager"
+            },
+            {
+              "side-notes":[
+                "Desenvolvedor Fullstack",
+                "Estágio",
+                "Raccoon Marketing Digital",
+                "São Carlos - SP, Brasil",
+                "2015 - 2016"
+              ],
+              "text": "Atuei desenvolvendo em vários projetos internos da empresa com o objetivo de facilitar e/ou melhorar o trabalho dos analistas de marketing. As principais linguagens utilizadas foram Python para o backend e Javascript (es7)/React para o frontend. Também era responsável pela manutenção e funcionamento da rede interna."
+            },
+            {
+              "side-notes":[
+                "Desenvolvedor Fullstack",
+                "Dekiru Language Solutions",
+                "Hyderabad, India",
+                "2012 - 2013"
+              ],
+              "text": "Atuei como desenvolvedor de backend e de frontend, desenvolvendo soluções para os cursos online que a escola oferecia para os alunos, trabalhavamos com PHP/Yii, javascript e CSS. Essa oportunidade foi conseguida via AIESEC."
+            },
+            {
+              "side-notes":[
+                "Desenvolvedor Backend",
+                "Estágio",
+                "Jetty soluções em TI",
+                "São Carlos - SP, Brasil",
+                "2011 - 2012"
+              ],
+              "text": "Atuei desenvolvendo em Python/Django um sistema para gerenciamento da matéria de TCC da USP são carlos. Sistema que hoje é utilizado pelo icmc - http://tccweb.icmc.usp.br."
+            }
+          ]
+        }
+      ],
+      "languages": {
+        "title": "Linguas",
+        "title-bg-size": 90,
+        "items": [
+          {"name": "Portugues", "level": 5},
+          {"name": "Inglês", "level": 4}
+        ]
+      },
+      "skills": {
+        "title": "Habilidades profissionais",
+        "title-bg-size": 250,
+        "items": [
+          {"name": "Python", "level": 5},
+          {"name": "javascript", "level": 5},
+          {"name": "css", "level": 4},
+          {"name": "html", "level": 4},
+          {"name": "c", "level": 3},
+          {"name": "php", "level": 3},
+          {"name": "flask", "level": 5},
+          {"name": "react", "level": 5},
+          {"name": "node", "level": 3},
+          {"name": "Linux", "level": 4},
+          {"name": "mongo", "level": 3},
+          {"name": "mysql", "level": 3}
+        ]
+      }
+    },
+    "en-Us": {
+      "flag": "US",
+      "title": "en-Us",
+      "fullname": "André Luiz L. S. Paolino",
+      "summary": "Passionate about technology and development, i always seek to learn new technologies and to improve my skills. I'm a team player and always willing to listen to ideas and exchange experiences.",
+      "contact_information": {
+        "website": { "label": "Website", "value": "http://senechal.github.io"},
+        "phone": { "label": "mobile", "value": "+55-19-98418-0983"},
+        "email": { "label": "E-mail", "value": "andre.senechal@hotmail.com"}
+      },
+      "sections": [
+        {
+          "title": "Education",
+          "title-bg-size": 110,
+          "items": [
+            {
+              "side-notes":[
+                "ICMC - USP São Carlos",
+                "Bachelor in ",
+                "Computer Science"
+              ],
+              "text": "USP is one of the best universities in the country. I finished the course in 2016."
+            }
+          ]
+        },
+        {
+          "title": "Experience",
+          "title-bg-size": 130,
+          "items": [
+            {
+              "side-notes":[
+                "IT Coordinator",
+                "Raccoon Marketing Digital",
+                "São Carlos - SP, Brazil",
+                "2017"
+              ],
+              "text": "As a Coordinator i had the experience of coordinating a team, the helpdesk Team. I Also worked as a fullstack developer and project manager inserveral projects. I had the opportunity to work in contact with clients developing tags for tracking user behavior in Google Tag Manager."
+            },
+            {
+              "side-notes":[
+                "Fullstack Developer",
+                "Internship",
+                "Raccoon Marketing Digital",
+                "São Carlos - SP, Brazil",
+                "2015 - 2016"
+              ],
+              "text": "Worked in many internal projects with the objective to ease and/or improve the workflow of marketing analysts. We work mainly with Python on backend and Javascript/React on frontend. I was also responsible for maintaining the company's network."
+            },
+            {
+              "side-notes":[
+                "Fullstack Developer",
+                "Dekiru Language Solutions",
+                "Hyderabad, India",
+                "2012 - 2013"
+              ],
+              "text": "As a Fullstack developer, i worked in solutions for online courses offered by the school. We worked mainly with PHP/Yii, javascript and CSS. This oportunity was granted to me by AIESEC."
+            },
+            {
+              "side-notes":[
+                "Backend Developer",
+                "Internship",
+                "Jetty soluções em TI",
+                "São Carlos - SP, Brazil",
+                "2011 - 2012"
+              ],
+              "text": "As a Python/Django developer, worked in a system used by ICMC - USP to manage and organize the discipline of end - of - course project. http://tccweb.icmc.usp.br."
+            }
+          ]
+        }
+      ],
+      "languages": {
+        "title": "Languages",
+        "title-bg-size": 90,
+        "items": [
+          {"name": "Portuguese", "level": 5},
+          {"name": "English", "level": 4}
+        ]
+      },
+      "skills": {
+        "title": "Professional Skills",
+        "title-bg-size": 250,
+        "items": [
+          {"name": "Python", "level": 5},
+          {"name": "javascript", "level": 5},
+          {"name": "css", "level": 4},
+          {"name": "html", "level": 4},
+          {"name": "c", "level": 3},
+          {"name": "php", "level": 3},
+          {"name": "flask", "level": 5},
+          {"name": "react", "level": 5},
+          {"name": "node", "level": 3},
+          {"name": "Linux", "level": 4},
+          {"name": "mongo", "level": 3},
+          {"name": "mysql", "level": 3}
+        ]
+      }
+    }
+  }
+}
