@@ -37,6 +37,15 @@
           "items": [
             {
               "side-notes":[
+                "Desenvolvedor Frontend Pleno",
+                "LiberCapital",
+                "São Carlos - SP, Brasil",
+                "2018"
+              ],
+              "text": "Trabalho como desenvolvimento do frontend do portal utilizando React/Redux e outras tecnologias web (css, html), sistema tambem é totalmente testado, e versionado via git. Em outro projetos tambem trabalhei um pouco com a Api Graphql."
+            },
+            {
+              "side-notes":[
                 "Coordenador de TI",
                 "Raccoon Marketing Digital",
                 "São Carlos - SP, Brasil",
@@ -88,16 +97,16 @@
         "title": "Habilidades profissionais",
         "title-bg-size": 250,
         "items": [
-          {"name": "Python", "level": 5},
-          {"name": "javascript", "level": 5},
+          {"name": "Python", "level": 4},
+          {"name": "javascript", "level": 4},
           {"name": "css", "level": 4},
           {"name": "html", "level": 4},
-          {"name": "c", "level": 3},
-          {"name": "php", "level": 3},
-          {"name": "flask", "level": 5},
-          {"name": "react", "level": 5},
+          {"name": "c", "level": 2},
+          {"name": "php", "level": 2},
+          {"name": "flask", "level": 4},
+          {"name": "react", "level": 4},
           {"name": "node", "level": 3},
-          {"name": "Linux", "level": 4},
+          {"name": "Linux", "level": 3},
           {"name": "mongodb", "level": 3},
           {"name": "mysql", "level": 3}
         ]
@@ -132,6 +141,15 @@
           "title": "Experience",
           "title-bg-size": 130,
           "items": [
+            {
+              "side-notes":[
+                "Frontend Developer",
+                "Liber Capital",
+                "São Carlos - SP, Brazil",
+                "2018"
+              ],
+              "text": "Lead frontend developer of our portal, beeing developed in React/Redux. Also worked with other projects using api graphQl and Apollo with React."
+            },
             {
               "side-notes":[
                 "IT Coordinator",
@@ -185,16 +203,16 @@
         "title": "Professional Skills",
         "title-bg-size": 200,
         "items": [
-          {"name": "Python", "level": 5},
-          {"name": "javascript", "level": 5},
+          {"name": "Python", "level": 4},
+          {"name": "javascript", "level": 4},
           {"name": "css", "level": 4},
           {"name": "html", "level": 4},
-          {"name": "c", "level": 3},
-          {"name": "php", "level": 3},
-          {"name": "flask", "level": 5},
-          {"name": "react", "level": 5},
+          {"name": "c", "level": 2},
+          {"name": "php", "level": 2},
+          {"name": "flask", "level": 4},
+          {"name": "react", "level": 4},
           {"name": "node", "level": 3},
-          {"name": "Linux", "level": 4},
+          {"name": "Linux", "level": 3},
           {"name": "mongodb", "level": 3},
           {"name": "mysql", "level": 3}
         ]
